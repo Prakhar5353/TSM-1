@@ -1,6 +1,6 @@
 # Specialization Project 1: Optimization of Binning Scheme for CP Violation Search with $D^0 \rightarrow \pi^+ \pi^- \pi^0$ Decays at LHCb
 
-This repository contains all relevant scripts for this project.
+This repository contains all the Python scripts used in my Specialization Project 1—part of my Master's degree in Physics, focusing on experimental particle physics.
 
 ## Project Overview
 
